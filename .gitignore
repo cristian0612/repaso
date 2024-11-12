@@ -1,0 +1,10 @@
+# gnorar archivo configuracion_local.ssh
+configuracion_local.ssh
+
+#ignorar carpeta o directorio
+archivo_personales/
+
+#ignorar todos los archivoscon EXTENCIONES de photoshop y giump
+
+*.psd
+*.xcf
